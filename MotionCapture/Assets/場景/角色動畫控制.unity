@@ -359,7 +359,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30c6ccafb710e6243ac0250f71650651, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1.5
+  speed: 10.1
+  turn: 50.1
+  hp: 100
+  parRun: "\u8DD1\u6B65\u958B\u95DC"
+  parAtk: "\u653B\u64CA\u89F8\u767C"
+  parDam: "\u53D7\u50B7\u89F8\u767C"
+  parJump: "\u8DF3\u8E8D\u958B\u95DC"
+  parDead: "\u6B7B\u4EA1\u958B\u95DC"
 --- !u!136 &1298126739
 CapsuleCollider:
   m_ObjectHideFlags: 0
